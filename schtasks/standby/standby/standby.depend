@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1468215130 source:c:\users\administrator\onedrive\agent\schtasks\standby\standby\main.cpp
+	<tchar.h>
+	<windows.h>
+	<direct.h>
+	<stdio.h>
+	<string.h>
+	<sys/stat.h>
+	<curl/curl.h>
+
+1419748566 c:\curl-7.40.0-devel-mingw32\include\curl\curl.h
+	"curlver.h"
+	"curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1420679898 c:\curl-7.40.0-devel-mingw32\include\curl\curlver.h
+
+1420679898 c:\curl-7.40.0-devel-mingw32\include\curl\curlbuild.h
+	<sys/types.h>
+	<sys/socket.h>
+
+1415080276 c:\curl-7.40.0-devel-mingw32\include\curl\curlrules.h
+
+1402487550 c:\curl-7.40.0-devel-mingw32\include\curl\easy.h
+
+1415080276 c:\curl-7.40.0-devel-mingw32\include\curl\multi.h
+	"curl.h"
+
+1415080276 c:\curl-7.40.0-devel-mingw32\include\curl\typecheck-gcc.h
+
+1469519951 source:c:\users\mcu\onedrive\agent\schtasks\standby\standby\main.cpp
+	<tchar.h>
+	<windows.h>
+	<direct.h>
+	<stdio.h>
+	<string.h>
+	<sys/stat.h>
+	<curl/curl.h>
+	<sys/stat.h>
+
